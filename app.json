@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.gardzock.aonda"
     },
     "web": {
       "favicon": "./assets/favicon.png",
@@ -34,6 +35,11 @@
           ]
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "493b08e6-c198-476b-a6ff-4c41e2043d85"
+      }
+    }
   }
 }
